@@ -37,6 +37,9 @@ end
  	 gem 'pg'
  	 gem  'rails_12factor'
 end
+
+gem 'will_paginate'
+gem 'will_paginate-bootstrap'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
